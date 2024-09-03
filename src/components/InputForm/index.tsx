@@ -65,7 +65,7 @@ export const InputForm: React.FC<Props> = ({ setTodoList, todoList }) => {
                     },
                 }}
             >
-                追加
+                追加!
             </Button>
         </StyledForm>
     );

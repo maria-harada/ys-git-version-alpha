@@ -78,7 +78,7 @@ export const List: React.FC<Props> = ({ setTodoList, todoList }) => {
                                     },
                                 }}
                             >
-                                削除
+                                削除!
                             </Button>
                             <Button
                                 type="button"
